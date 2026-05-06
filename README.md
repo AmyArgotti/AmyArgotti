@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Amanda 👋
 
-<!--
-**AmyArgotti/AmyArgotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on Artificial Intelligence, NLP, and backend development.
 
-Here are some ideas to get you started:
+Currently building AI-powered educational systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Ollama
+* Gradio
+* SQLite
+
+## Main Project
+
+### Juanito — AI Assistant for Learning Spanish
+
+An intelligent educational platform integrating:
+
+* conversational AI
+* translation
+* quizzes
+* speech technologies
+* personalized learning systems
+
+## Interests
+
+* Artificial Intelligence
+* NLP & Conversational AI
+* Educational Technology
+* Backend Development
+* Human-centered AI systems
+
+## Languages
+
+* Spanish 🇪🇨
+* English 🇺🇸
+* Russian 🇷🇺
+
+Fun fact: the assistant icon for Juanito is inspired by my cat 🐱
